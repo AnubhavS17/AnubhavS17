@@ -29,8 +29,4 @@ Reach me via <b>GitHub Issues</b> or as per project needs.
 
 ---
 
-<sub>
-<em>Tip:</em>  
-Markdown on GitHub does not support custom font sizes or colors natively. The HTML `<span>` tags above work in some Markdown renderers (like on GitHub Pages or some viewers), but not in the default GitHub README view.  
-To ensure best compatibility, use headings (`#`, `##`, etc.) and **bold** or *italic* text for emphasis.  
-</sub>
+
