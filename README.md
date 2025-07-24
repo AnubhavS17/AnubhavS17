@@ -1,32 +1,23 @@
-# Anubhav Singh
+# 👋 Hi, I’m Anubhav Singh
 
-## About Me
+## 👨‍💻 About Me
+I'm a passionate Android developer who loves building intuitive and efficient mobile apps using **Kotlin**, and scalable backend services with **Spring Boot** and **Java**.
 
-<span style="font-size:1.1em;"><b>Hi, I’m Anubhav Singh.</b></span>  
-I love building <span style="color:#009688;"><b>Android applications using Kotlin</b></span> and developing <span style="color:#2196F3;"><b>microservice applications with Spring Boot and Java</b></span>.  
-I’m passionate about writing <span style="font-style:italic;">clean, maintainable, and scalable code</span> that enhances user experience.  
-Constantly learning and keeping up with <span style="color:#795548;">emerging mobile development trends</span>.  
-Enthusiastic about collaborating on innovative Android projects.
+I enjoy writing clean, maintainable, and scalable code that improves both performance and user experience.  Always curious and eager to learn, 
+I stay updated with the latest trends in mobile and backend development.
 
----
+I'm especially enthusiastic about working on innovative ideas, contributing to open source, and collaborating with developers to bring impactful products to life.
 
-## Interests
+## 💡 Interests
+- 📱 Android development and mobile app design  
+- ⚙️ Creating robust backends for mobile/web applications  
+- 🌍 Open source contributions and tech community involvement  
+- 🔄 Continuous learning in modern development tools and frameworks  
 
-- <span style="font-size:1.05em;"><b>Android development and mobile app design</b></span>
-- Creating backends for applications
-- Open source contributions and community learning
-
----
-
-## Get in Touch
-
-<span style="font-size:1.05em;">Let’s connect and work together on exciting Android projects!</span>  
-Reach me via <b>GitHub Issues</b> or as per project needs.
+## 🤝 Get in Touch
+Let’s connect and work together on exciting Android projects!  
+You can reach me via [Github Issues](https://github.com/AnubhavS17), or as required for project collaboration.
 
 ---
 
-*Thanks for stopping by!*
-
----
-
-
+Thanks for stopping by! 🚀
